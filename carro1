@@ -1,0 +1,16 @@
+package Enum;
+
+public enum MarcasCarro {
+
+	LAMBORGHINI,
+	FERRARI,
+	HONDA,
+	CITROEN,
+	FORD,
+	FIAT,
+	AUIDI,
+	PROSCHE,
+	TOYOTA,
+	HYUNDAI,
+	
+}
