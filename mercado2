@@ -1,0 +1,14 @@
+package Enum;
+
+public class Produto {
+
+	public static void main(String[] args) {
+		
+		for(Supermercado produto : Supermercado.values()) {
+			System.out.println("*********************");
+			System.out.println(produto);
+	
+		}
+	}
+
+}
