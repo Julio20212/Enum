@@ -1,0 +1,14 @@
+package Enum;
+
+public class Roupas {
+
+	public static void main(String[] args) {
+		
+		for (MarcasRoupas roupas : MarcasRoupas.values()) {
+			System.out.println("*************");
+			System.out.println(roupas);
+		}
+	}
+}
+
+		
