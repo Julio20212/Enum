@@ -1,0 +1,27 @@
+package Enum;
+
+public enum NomePessoa {
+
+	JOAO,
+	CAIO,
+	RUDRIAN,
+	FELIPE,
+	JULIO,
+	NICOLE,
+	JOSE,
+	ALEX,
+	AMARAL,
+	LUIZ,
+	LUCAS,
+	CARLOS,
+	VINICIUS,
+	ADAUTO,
+	ADRIANO,
+	LUANA,
+	LAURA,
+	YURI,
+	MATEUS,
+	HUGO,
+	
+		
+}
