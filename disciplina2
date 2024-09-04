@@ -1,0 +1,14 @@
+package Enum;
+
+public class Disciplina {
+
+	public static void main(String[] args) {
+		
+		for(EnsinoMedio disciplina : EnsinoMedio.values()) {
+			System.out.println("*********************");
+			System.out.println(disciplina);
+	
+		}
+	}
+
+}
