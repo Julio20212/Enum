@@ -1,0 +1,20 @@
+package Enum;
+
+public enum EnsinoMedio {
+
+	MATEMATICA,
+	LP,
+	INGLES,
+	BIOLOGIA,
+	GOGRAFIA,
+	FISICA,
+	QUIMICA,
+	SOCIOLOGIA,
+	FILOSOFIA,
+	HISTORIA,
+	ARTE,
+	EMPREENDEDORISMO,
+	TPT,
+	T_A,
+	EF,
+}
