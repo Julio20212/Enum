@@ -1,0 +1,12 @@
+package Enum;
+
+public enum MarcasRoupas {
+
+	NIKE,
+	ADIDAS,
+	PUMA,
+	GUCCI,
+	LOUIS_VUITTON,
+	BALENCIAGA,
+	PRADA,
+}
