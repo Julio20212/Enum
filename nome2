@@ -1,0 +1,14 @@
+package Enum;
+
+public class Nome {
+
+	public static void main(String[] args) {
+		
+		for (NomePessoa nome : NomePessoa.values()) {
+			System.out.println("*************");
+			System.out.println(nome);
+		}
+	}
+}
+
+		
